@@ -3,6 +3,13 @@ from scipy.optimize import leastsq
 import io
 import os
 
+'''
+This code was developed for research purposes at Lund University. This can be used by anyone for free.
+Author: Praveenkumar Hiremath
+Email: praveenkumar.hiremath@mek.lth.se (Email at the University)
+       praveenkumar.hiremath2911@gmail.com (Private email)
+'''
+
 # Figure attributes
 plt.rcParams.update({'font.size': 14})
 plt.rcParams['figure.figsize'] = 12, 10
